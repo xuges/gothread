@@ -10,7 +10,7 @@ Windows √
 
 Linux √
 
-MacOS ×
+MacOS √
 
 ## Usage
 
